@@ -18,3 +18,6 @@ When you hit the run button, your program will execute line-by-line. After it fi
 
 
 Confused? No worries. This problem uses material from chapters 1 through 4 in the [Karel Reader](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html). Have you read that yet?
+
+### output
+[Link](https://codeinplace.stanford.edu/cip3/share/J39B3yJdsRTmoVLpmvKc) to the output
