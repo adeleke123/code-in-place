@@ -15,4 +15,8 @@ After your program finishes, Karel's world should have no beepers, like so:
 
 Confused? No worries. This problem uses material from chapters 1 through 4 in the Karel Reader. Have you read that yet?
 
+### output
+
+[Link](https://codeinplace.stanford.edu/cip3/share/0MOVS51IzIunQELlcw55) to the output
+
 
