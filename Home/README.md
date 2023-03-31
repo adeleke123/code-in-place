@@ -23,3 +23,6 @@ When you are finished the world should look like this:
 
 
 Confused? No worries. This problem uses material from chapters 1 through 4 in the [Karel Reader](https://compedu.stanford.edu/karel-reader/docs/python/en/intro.html). Have you read that yet?
+
+### output
+[link](https://codeinplace.stanford.edu/cip3/share/yAFRMhYV9pIBw5GQvK9W) to the output
